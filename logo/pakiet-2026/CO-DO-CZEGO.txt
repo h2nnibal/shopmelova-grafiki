@@ -1,0 +1,15 @@
+LOGO ShopMelova 2026 — co do czego
+
+1-awatary-kwadrat     → zdjęcie profilowe: Gmail/konto Google, Facebook, Instagram, TikTok.
+                        Do Gmaila/Google wgraj 1080px lub 512px (Google sam przytnie do koła).
+                        Bordowy = najlepiej widoczny, jasny = delikatny, grafitowy = elegancki.
+2-logo-poziome        → kółko S/M + napis. Sklep, banery, faktury, dokumenty.
+                        „kolor” na jasne tło, „jasne-na-ciemne-tlo” na ciemne/bordowe zdjęcia.
+3-napis-ShopMelova    → sam napis z serduszkiem zamiast „o”. Nagłówki, posty, opakowania.
+4-sygnet-przezroczysty→ samo kółko S/M bez tła — znak wodny na zdjęciach, naklejki, rolki.
+5-podpis-gmail        → małe logo do podpisu w mailu (300px jest najlepsze).
+6-favicon             → ikonka karty przeglądarki / ikona sklepu.
+7-wektory-SVG-PDF-EPS → wektory (napisy zamienione na krzywe): SVG do sieci i Canvy, PDF i EPS dla drukarni/grafika (Illustrator, Affinity, CorelDRAW). Skalują się bez utraty jakości.
+
+Wszystkie PNG oprócz awatarów i favicony mają przezroczyste tło.
+Kolory: grafit #2E2E30, bordo #8A1C3A, krem #F7F5F2. Font: Cormorant Garamond.
